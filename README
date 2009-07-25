@@ -1,0 +1,3 @@
+This jquery code extracts alt content from <img /> and adds to another element of the DOM
+
+For more information see http://www.f1vlad.com/blog/2008/08/31/1170/putting-alt-attribute-work
